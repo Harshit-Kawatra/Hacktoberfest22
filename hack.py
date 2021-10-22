@@ -1,8 +1,6 @@
 print("hello world")
 print("hacktoberfest2020")
-for i in range(100):
-  print("yo")
- 
+for i in range(10):
+  print("Element :",i)
 
-print("tshirt is free and stickers too")
 print("github")
